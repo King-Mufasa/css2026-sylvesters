@@ -52,19 +52,16 @@ projects = [
         "title": "Gene Expression Analysis in Breast Cancer",
         "desc": "Analyzed publicly available RNA-seq datasets to identify differentially expressed genes associated with breast cancer progression. Applied statistical filtering and visualization techniques to highlight potential biomarkers.",
         "tools": "Tools: Python, Pandas, Matplotlib, Bioinformatics pipelines",
-        "link": "https://github.com/yourusername/gene-expression-analysis"
     },
     {
         "title": "Drug-Target Interaction Prediction Model",
         "desc": "Built a simple machine learning model to predict potential drug-target interactions using molecular descriptors and pharmacological datasets. Explored feature selection and model evaluation techniques.",
         "tools": "Tools: Python, Scikit-learn, NumPy",
-        "link": "https://github.com/yourusername/drug-target-model"
     },
     {
         "title": "Pharmacovigilance Data Dashboard",
         "desc": "Developed an interactive dashboard to explore adverse drug reaction reports and identify trends in medication safety data.",
         "tools": "Tools: Python, Streamlit, Data Visualization",
-        "link": "https://github.com/yourusername/pharmacovigilance-dashboard"
     },
 ]
 
