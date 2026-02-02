@@ -13,8 +13,8 @@ st.write(
 
 st.markdown("""
 **Email:** sylvestersoyim@email.com  
-**GitHub:** https://github.com/yourusername  
-**Location:** United States  
+**GitHub:** https://github.com/King-Mufasa  
+**Location:** Makhanda, South Africa 
 """)
 
 st.divider()
