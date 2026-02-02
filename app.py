@@ -69,7 +69,6 @@ for p in projects:
     st.subheader(p["title"])
     st.write(p["desc"])
     st.caption(p["tools"])
-    st.write(f"Repository: {p['link']}")
     st.divider()
 
 # --- FUTURE GOALS ---
